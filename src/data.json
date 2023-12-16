@@ -1,0 +1,24 @@
+[
+    {"lati": 77.2492, "type": "Feature", "properties": {"mag": 1}, "longi": 28.5363},
+    {"lati": 77.086, "type": "Feature", "properties": {"mag": 2}, "longi": 28.6127},
+    {"lati": 77.2042, "type": "Feature", "properties": {"mag": 4}, "longi": 28.5299},
+    {"lati": 77.2361, "type": "Feature", "properties": {"mag": 1}, "longi": 28.6436},
+    {"lati": 77.1937, "type": "Feature", "properties": {"mag": 1}, "longi": 28.7026},
+    {"lati": 77.2937, "type": "Feature", "properties": {"mag": 2}, "longi": 28.6534},
+    {"lati": 77.2262, "type": "Feature", "properties": {"mag": 1}, "longi": 28.6664},
+    {"lati": 77.2653, "type": "Feature", "properties": {"mag": 1}, "longi": 28.5307},
+    {"lati": 77.0662, "type": "Feature", "properties": {"mag": 1}, "longi": 28.6091},
+    {"lati": 77.2676, "type": "Feature", "properties": {"mag": 2}, "longi": 28.5623},
+    {"lati": 77.3062, "type": "Feature", "properties": {"mag": 0}, "longi": 28.523},
+    {"lati": 77.2242, "type": "Feature", "properties": {"mag": 2}, "longi": 28.7072},
+    {"lati": 77.0036, "type": "Feature", "properties": {"mag": 0}, "longi": 28.7258},
+    {"lati": 77.1738, "type": "Feature", "properties": {"mag": 2}, "longi": 28.66},
+    {"lati": 77.0864, "type": "Feature", "properties": {"mag": 0}, "longi": 28.5914},
+    {"lati": 77.1276, "type": "Feature", "properties": {"mag": 2}, "longi": 28.7179},
+    {"lati": 77.179, "type": "Feature", "properties": {"mag": 2}, "longi": 28.5705},
+    {"lati": 77.1159, "type": "Feature", "properties": {"mag": 2}, "longi": 28.7024},
+    {"lati": 77.1328, "type": "Feature", "properties": {"mag": 4}, "longi": 28.6744},
+    {"lati": 77.0156, "type": "Feature", "properties": {"mag": 0}, "longi": 28.6037},
+    {"lati": 77.1974, "type": "Feature", "properties": {"mag": 1}, "longi": 28.7366}
+    
+]
